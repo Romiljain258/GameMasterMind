@@ -72,7 +72,7 @@ class Login extends React.Component {
                   <h3 className="promt">{this.state.setData}</h3>
 
 
-                  <input type="text"
+                  <input type="email"
                     required
                     className="form-control"
                     placeholder="Username"

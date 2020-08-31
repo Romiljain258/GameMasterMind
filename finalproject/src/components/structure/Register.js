@@ -91,7 +91,7 @@ class Register extends React.Component {
 
                                 <div className="textbox-log">
 
-                                    <input type="text"
+                                    <input type="email"
                                         required
                                         className="form-control"
                                         placeholder="Email"
